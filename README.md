@@ -6,7 +6,7 @@
 
 </head> 
 
-<h1><a href="file:///C:/Users/hanauser18/Desktop/web/index.html">  WE  </a>
+<h1><a href="file:///C:/Users/hanauser18/Desktop/web/index.html">  WEB    </a>
 
 <ol> 
 
