@@ -6,9 +6,6 @@
 
 </head> 
 
-<body style="background-color:powderblue;"
-body background="bank.jpg" ; > 
-
 <h1><a href="file:///C:/Users/hanauser18/Desktop/web/index.html">  WE  </a>
 
 <ol> 
