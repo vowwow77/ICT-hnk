@@ -34,14 +34,9 @@
 Markup</u> Language    
 <br>
 <p>
-<img src="https://source.unsplash.com/featured/?{SKY} "height="100" width="150" img 
-
-style="border: 3px solid black">
-<img src="https://source.unsplash.com/featured/?{SEA} "height="100" width="150" img 
-
-style="border: 3px solid black">
-<img src="https://source.unsplash.com/random "height="100" width="150"
-img style="border: 3px solid black">
+<img src="https://source.unsplash.com/featured/?{SKY} "height="100" width="150" imgstyle="border: 3px solid black">
+<img src="https://source.unsplash.com/featured/?{SEA} "height="100" width="150" imgstyle="border: 3px solid black">
+<img src="https://source.unsplash.com/random "height="100" width="150" img style="border: 3px solid black">
 </p>
 
 
