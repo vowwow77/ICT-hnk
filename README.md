@@ -44,5 +44,5 @@ Markup</u> Language
 <h5>This is heading 5</h5>
 <h6>This is heading 6</h6>
 
-</body> 
-
+</body>
+</html>
