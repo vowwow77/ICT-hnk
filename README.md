@@ -8,6 +8,7 @@
 
 <h1><a href="file:///C:/Users/hanauser18/Desktop/web/index.html">  WEB    </a>
 
+<body>
 <ol> 
 
 <li><button type="button" onclick="alert('HTML!')">HTML</button></li>
@@ -26,7 +27,8 @@
 </ol>
 
 
-<h2> HTML </h2> <br> 
+<h2> 
+</h2> <br> 
 
 
 <b><a href="https://www.w3.org" target="_blank">HTML</a></b> is <u>Hyper <b>Text</b> 
@@ -43,54 +45,4 @@ Markup</u> Language
 <h6>This is heading 6</h6>
 
 </body> 
-</html>
 
-
-
-<style> 
-
-
-body  {background-size: contain;  } 
-
-
-li { color : purple;} 
-
-h2 {
-  color: Green;} 
-h1 {
-  color: red;
-}
-a:link {
-  color: balck; 
-  background-color: transparent; 
-  text-decoration: none;
-}
-
-a:visited {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 2px 2px;
-  text-align: center;
-  font-size: 12px;
-  cursor: pointer;
-
-button:hover {
-  background-color: green;
-}
-
-</style>
-
- 
