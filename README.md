@@ -1,11 +1,7 @@
 
-<html>
 <head>
 
-
 <meta charset="utf-8">
-
-
 </head> 
 
 <h1>  WEB  </h1>
@@ -47,4 +43,3 @@ Markup</u> Language
 <h6>This is heading 6</h6>
 
 </body>
-</html>
