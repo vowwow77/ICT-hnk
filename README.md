@@ -6,6 +6,10 @@
 
 <h1>  WEB  </h1>
 
+<img src="https://github.com/vowwow77/ICT-hnk/blob/master/photo-1507571257076-56bf995015af.jpg">
+
+
+
 <body>
 <ol> 
 
