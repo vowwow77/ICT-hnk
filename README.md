@@ -4,11 +4,11 @@
 
 
 <meta charset="utf-8">
-<title> I & ICT </title> 
+
 
 </head> 
 
-<h1><a href="file:///C:/Users/hanauser18/Desktop/web/index.html">  WEB    </a>
+<h1>  WEB  </h1>
 
 <body>
 <ol> 
